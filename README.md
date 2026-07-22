@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/darsan888/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/darsan888/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/darsan888/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/darsan888/Leetcode/tree/master/0414-third-maximum-number) |
 | [1512-number-of-good-pairs](https://github.com/darsan888/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/darsan888/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/darsan888/Leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/darsan888/Leetcode/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
