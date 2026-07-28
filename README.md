@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/darsan888/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/darsan888/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/darsan888/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/darsan888/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/darsan888/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/darsan888/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/darsan888/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/darsan888/Leetcode/tree/master/0278-first-bad-version) |
