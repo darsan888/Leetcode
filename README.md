@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/darsan888/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/darsan888/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/darsan888/Leetcode/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/darsan888/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/darsan888/Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darsan888/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/darsan888/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darsan888/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/darsan888/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
