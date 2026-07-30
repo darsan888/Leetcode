@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/darsan888/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/darsan888/Leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/darsan888/Leetcode/tree/master/0704-binary-search) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darsan888/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/darsan888/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/darsan888/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/darsan888/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/darsan888/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/darsan888/Leetcode/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darsan888/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/darsan888/Leetcode/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/darsan888/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
