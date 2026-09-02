@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/darsan888/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/darsan888/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/darsan888/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/darsan888/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/darsan888/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/darsan888/Leetcode/tree/master/2235-add-two-integers) |
