@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/darsan888/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/darsan888/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/darsan888/Leetcode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/darsan888/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/darsan888/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/darsan888/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/darsan888/Leetcode/tree/master/2235-add-two-integers) |
